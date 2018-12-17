@@ -1,0 +1,12 @@
+The 10 highest rated releases on IMDB with at least 10,000 ratings.
+
+1: Koombiyo, average rating: 9.9 with 15176 ratings.
+2: The Last of Us, average rating: 9.8 with 36230 ratings.
+3: Wiedzmin 3: Dziki Gon, average rating: 9.8 with 11146 ratings.
+4: The Filthy Frank Show, average rating: 9.7 with 30268 ratings.
+5: Mass Effect 2, average rating: 9.6 with 15827 ratings.
+6: Grand Theft Auto V, average rating: 9.6 with 39423 ratings.
+7: Uncharted 4: A Thief's End, average rating: 9.6 with 13532 ratings.
+8: Band of Brothers, average rating: 9.5 with 299577 ratings.
+9: Half-Life 2, average rating: 9.5 with 12894 ratings.
+10: Breaking Bad, average rating: 9.5 with 1131506 ratings.
